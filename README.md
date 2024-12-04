@@ -36,55 +36,7 @@
 
 </div>
  
-
-# 📊 GitHub Stats:
-
-<div>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=aakku106&theme=dark&hide_border=false)
-  
-</div>
-<div align="right">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aakku106&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-  
-</div>
-<div >
-
-![](https://github-readme-stats.vercel.app/api?username=aakku106&theme=dark&hide_border=false&include_all_commits=false&count_private=false) </br>
-  
-</div>
-<br>
-<br>
-
-
-## 🌐 Socials:
-
-
-<div align="center" >
-
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarashaagaihre106) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23367206) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@aadarasha106) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@adarashagaihre)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adarasha_gaihre) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AdarashaGaihre) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Adarasha-Gaihre-the-decoder) 
-
-
-
- 
-</div>
-<br>
-<br>
-<div align="left">
-
- 
-  ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aakku106&limit=5&theme=holi&combine_all_yearly_contributions=true)
+/api?username=aakku106&limit=5&theme=holi&combine_all_yearly_contributions=true)
 </div>
 
 <br/>
@@ -106,13 +58,5 @@
 ## 🏆 GitHub Trophies
 
 
-<div align="center" >
-
-
-![](https://github-profile-trophy.vercel.app/?username=aakku106&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
- 
-</div>
 
 <br>
