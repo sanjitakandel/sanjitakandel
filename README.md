@@ -48,15 +48,6 @@
 <br/>
 </br>
 
-<div align="left">  
-  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-</div>
-
-
-## 🏆 GitHub Trophies
-
 
 
 <br>
