@@ -6,7 +6,7 @@
 
   
 # Hi there 👋 </br>
-- I'm Adarasha Gaihre,<br> -  IT student from Nepal 🇳🇵,<br> - 📫 How to reach me: adarasha.gaihre106@gmail.com , www.adarashagaihre.com.np<br> - ⚡ Fun fact: i am in love with 🦚: coding💻, drawing 🖌️, and Watching anime 🦊.<br> - 🌱 I’m currently learning  C#, C++, Python
+- I'm Sanjita kandel,<br> -  IT student from Nepal 🇳🇵,<br> - 📫 How to reach me: sanjitakandel643@gmail.com , www.adarashagaihre.com.np<br> - ⚡ Fun fact: i am in love with 🦚: coding💻, drawing 🖌️, and Watching anime 🦊.<br> - 🌱 I’m currently learning  C#, C++, Python
 </br>
 
 ---
