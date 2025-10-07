@@ -6,7 +6,7 @@
 
   
 # Hi there 👋 </br>
-- I'm Sanjita kandel,<br> -  IT student from Nepal 🇳🇵,<br> - 📫 How to reach me: sanjitakandel643@gmail.com ,<br> - ⚡ Fun fact: i am in love with 🦚: coding💻, drawing 🖌️, and Watching anime 🦊.<br> - 🌱 I’m currently learning  C#, C++, Python
+- I'm Sanjita kandel,<br> -  IT student from Nepal 🇳🇵,<br> - 📫 How to reach me: sanjitakandel643@gmail.com ,<br> - ⚡ Fun fact: i am in love with 🦚: coding💻, drawing 🖌️, and Watching anime 🦊.<br> - 🌱 I’m currently learning  C#, C++, React,Nextjs,Javascript
 </br>
 
 ---
