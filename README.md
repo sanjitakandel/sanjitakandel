@@ -1,52 +1,29 @@
-## Hi there 👋
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=sanjita&label=Profile%20Views&color=0&icon=5&pretty=true" />
-</a>
+# 👋 Hi, I'm Sanjit Kandel
 
+### 🚀 Frontend Developer | JavaScript | React Enthusiast
 
-  
-# Hi there 👋 </br>
-- I'm Sanjita kandel,<br>
--  IT student from Nepal 🇳🇵
--  Passionate about frontend web development | Skilled in HTML, CSS, React.js, Tailwind & Git | Eager learner building real-world projects 
- - 📫 How to reach me: sanjitakandel643@gmail.com ,<br> - ⚡ Fun fact: i am in love with 🦚: coding💻, drawing 🖌️, and Watching anime 🦊.<br> - 🌱 I’m currently learning  C#, C++, React,Nextjs,Javascript
-</br>
+🌱 Currently learning **Node.js and Express**  
+💻 I love building interactive web apps  
+📫 Reach me at: [sanjitakandel643@gmail.com] 
+⚡ Fun fact: I love dancing,sketching ☕
 
 ---
 
-# 💻 Tech Stack:
+## 🔧 Technologies & Tools
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="center" >  
+---
 
+## 📊 GitHub Stats
+![Sanjit’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjitakandel&show_icons=true&theme=tokyonight&count_private=true)
 
- 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+---
 
-
-
-<br/>
-</br>
-<img align="right" alt="coding" width="400" src="https://img.wattpad.com/307e4162f76b2ec8cebee1b6ba42cda7df59df6f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4f6952487475452d6666626734673d3d2d3331353832363034392e313437376662343037366463346639363332333237323939353433332e676966">
-
-
-
-<br/>
-</br>
-
-
-
-<br>
+## 👀 Profile Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=sanjitakandel&color=0e75b6&style=flat-square)
