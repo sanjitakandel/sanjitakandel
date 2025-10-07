@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Sanjita Kandel
 
+## 👀 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanjitakandel&color=0e75b6&style=flat-square)
 ### Passionate about
 - 🚀Frontend Developer | JavaScript | React Enthusiast
 - 🌱 Currently learning **Next.js**  
@@ -25,10 +28,7 @@
 
 ## 📊 GitHub Stats
 
-![Sanjit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjitakandel&show_icons=true&theme=tokyonight&count_private=true)
+![Sanjita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjitakandel&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
-## 👀 Profile Visitors
-
-![Profile Views](https://komarev.com/ghpvc/?username=sanjitakandel&color=0e75b6&style=flat-square)
