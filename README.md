@@ -4,8 +4,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjitakandel&color=0e75b6&style=flat-square)
 
-### 🚀 Frontend Developer | JavaScript | React Enthusiast
-
+### Passionate about
+-🚀 Frontend Developer | JavaScript | React Enthusiast
 - 🌱 Currently learning **Next.js**  
 - 💻 I love building interactive web apps  
 - 🎨 Know the basics of **Figma** and **Photoshop**  
