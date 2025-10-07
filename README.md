@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sanjit Kandel
+# 👋 Hi, I'm Sanjita Kandel
 
 ### 🚀 Frontend Developer | JavaScript | React Enthusiast
 
