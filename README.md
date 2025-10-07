@@ -8,6 +8,7 @@
 # Hi there 👋 </br>
 - I'm Sanjita kandel,<br>
 -  IT student from Nepal 🇳🇵
+-  Passionate about frontend web development | Skilled in HTML, CSS, React.js, Tailwind & Git | Eager learner building real-world projects 
  - 📫 How to reach me: sanjitakandel643@gmail.com ,<br> - ⚡ Fun fact: i am in love with 🦚: coding💻, drawing 🖌️, and Watching anime 🦊.<br> - 🌱 I’m currently learning  C#, C++, React,Nextjs,Javascript
 </br>
 
