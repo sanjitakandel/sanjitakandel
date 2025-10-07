@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sanjit Kandel
+# 👋 Hi, I'm Sanjita Kandel
 
 ### Passionate about
 - 🚀Frontend Developer | JavaScript | React Enthusiast
