@@ -6,7 +6,7 @@
 
 ### Passionate about
 -🚀 Frontend Developer | JavaScript | React Enthusiast
-- 🌱 Currently learning **Next.js**  
+
 - 💻 I love building interactive web apps  
 - 🎨 Know the basics of **Figma** and **Photoshop**  
 - 📫 Reach me: [sanjitakandel643@gmail.com](mailto:sanjitakandel643@gmail.com)  
